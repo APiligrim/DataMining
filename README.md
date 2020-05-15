@@ -13,6 +13,6 @@
   2. Regression Tree
   3. Bagging and Random Forest
 
-![Team Name](https://giphy.com/gifs/cLkfy1SVHBK83BRCxO/html5)
+![](https://media.giphy.com/media/cLkfy1SVHBK83BRCxO/giphy.gif)
 
-![Project Outline](https://giphy.com/embed/WUOzjxAKzoc2P4sdNf)
+![](https://media.giphy.com/media/WUOzjxAKzoc2P4sdNf/giphy.gif)
